@@ -10,16 +10,11 @@ Crypto enthusiast, node runner, and airdrop hunter. Passionate about exploring b
 - **Learning**: Diving into **Machine Learning** and **Data Science** to analyze crypto markets and build smart solutions.
 
 ## 🛠 Skills
-- **Programming**: Python (pandas, numpy, scikit-learn), automation scripts.
+- **Programming**: Python, automation scripts.
 - **Containerization**: Docker for deploying nodes and applications.
 - **Blockchain**: Node setup and management, working with wallets and smart contracts.
-- **Data Analytics**: Studying ML (machine learning), working with data for forecasting and analysis.
+- **Data Analytics**: Studying ML, working with data for forecasting and analysis.
 - **Tools**: Git, Jupyter Notebook, Linux, crypto exchange APIs.
-
-## 🚀 Projects
-- **[Project Name 1]**: Automated node monitoring using Python and Docker. ([link to repository])
-- **[Project Name 2]**: Scripts for analyzing airdrop campaigns and project tokenomics. ([link to repository])
-- **[Project Name 3]**: Research project on cryptocurrency price prediction using ML. ([link to repository])
 
 ## 📚 What I'm Working On
 - Studying **Machine Learning** and **Data Science** for crypto data analysis.
