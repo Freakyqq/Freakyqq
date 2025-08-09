@@ -22,10 +22,10 @@ Crypto enthusiast, node runner, and airdrop hunter. Passionate about exploring b
 - Developing automated solutions for node running and airdrop hunting.
 
 ## 📫 Connect With Me
-- **Twitter/X**: [@your_handle] (https://x.com/your_handle)
-- **Telegram**: @your_handle
-- **Email**: your_email@example.com
-- **Discord**: your_handle#1234
+- **Twitter/X**: @Freaky_Trading
+- **Telegram**: @Freaky_Changes
+- **Email**: 
+- **Discord**: dmitriylarmourer
 
 ## ⚡ Fun Facts
 - I'm a believer in decentralization and the future of Web3.
